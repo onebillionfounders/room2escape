@@ -31,7 +31,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/r2e-white-circle-300px-128x127-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logor2e-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.7.2",
     "uniqCompNum": 28,
